@@ -1,0 +1,22 @@
+#PROBLEM DEFINIATION
+
+1.Build and host Information Management solution in web
+2.They wanted to  build host  internet web site 
+3. internet web site is for customers to know about product details of company 
+4.And have a experience of online shopping
+5.They also wanted tro create one site for their employees
+6.site which will be creating for employee is for their leave management and feedback access
+7.they have 24 offices all over world
+8.hence they wants to communicate about project or use these site anywhere at anytime 
+9.they are using google cloud platforms for building and hosting their Information system
+10.They are using amazon web service as Infrastructure as a service
+
+
+          # Functional requirments:
+ internet web site is for customers to know about product details of company and have a experience of online shopping.
+They also wanted tro create one site for their employees. site which will be creating for employee is for their leave
+ management and feedback access
+
+       # Non Functional requirments:
+  Want to use google cloud platforms for building and hosting their Information system.They are using amazon web service 
+as Infrastructure as a service
